@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
+**Build Electric Vehicle and Robotic in real hardware that moves safe and sound.**
+ 
