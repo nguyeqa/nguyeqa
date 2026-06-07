@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 **Build Electric Vehicle and Robotic in real hardware that moves safe and sound.**
 
+## Current
 🏎️ Active member of the FSAE team at the University of Cincinnati where we design, 
 build and optimize a formula-style electric race car.
 
 🤖 Currently interning at Sensory Robotics, designing safety systems for industrial robots 
+
+## 🕊️ Serving Those Who Kept the Peace
+🏥 Previously at FFE Inc, designing VA hospital facilities for veterans who served
+for the peace of the United States.
+🎖️ Honored to be a member of Society of American Military Engineers (SAME) 
 
  
