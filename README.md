@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 **Build Electric Vehicle and Robotic in real hardware that moves safe and sound.**
 
-🏎️A ctive member of the FSAE team at the University of Cincinnati where we design, 
+🏎️ Active member of the FSAE team at the University of Cincinnati where we design, 
 build and optimize a formula-style electric race car.
-- Targeting to land a co-op/internship in Spring 2027 and Summer 2027 
+🤖 Currently interning at Sensory Robotics, designing safety systems for industrial robots 
 
  
