@@ -24,7 +24,7 @@ build and optimize a formula-style electric race car.
 🤖 Currently interning at Sensory Robotics, designing safety systems for industrial robots 
 
 ## 🕊️ Serving Those Who Kept the Peace
-🏥 Previously at FFE Inc, designing VA hospital facilities for veterans who served
+🏥 Previously co-op at FFE Inc, designing VA hospital facilities for veterans who served
 for the peace of the United States.
 🎖️ Honored to be a member of Society of American Military Engineers (SAME) 
 
