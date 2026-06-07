@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 🏎️ Active member of the FSAE team at the University of Cincinnati where we design, 
 build and optimize a formula-style electric race car.
 
-🤖 Currently interning at Sensory Robotics, designing safety systems for industrial robots. 
+🤖 Currently interning at [Sensory Robotics](https://www.sensoryrobotics.com/), designing safety systems for industrial robots. 
 
 ## 🕊️ Serving Those Who Kept the Peace
-🏥 Previously co-op at FFE Inc, designing VA hospital facilities for veterans who served
+🏥 Previously co-op at [FFE Inc](https://www.ffeinc.us/), designing VA hospital facilities for veterans who served
 for the peace of the United States.
 
 🎖️ Honored to be a member of Society of American Military Engineers (SAME). 
