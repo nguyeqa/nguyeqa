@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Build Electric Vehicle and Robotic in real hardware that moves safe and sound.**
 
-## Current
+## 🚀 Shaping the Future of Autonomous Systems
 🏎️ Active member of the FSAE team at the University of Cincinnati where we design, 
 build and optimize a formula-style electric race car.
 
