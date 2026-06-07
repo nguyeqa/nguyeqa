@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 🏎️ Active member of the FSAE team at the University of Cincinnati where we design, 
 build and optimize a formula-style electric race car.
+
 🤖 Currently interning at Sensory Robotics, designing safety systems for industrial robots 
 
  
