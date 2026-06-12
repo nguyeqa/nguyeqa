@@ -23,7 +23,7 @@ build and optimize a formula-style electric race car.
 
 🤖 Currently interning at [Sensory Robotics](https://www.sensoryrobotics.com/), designing safety systems for industrial robots. 
 
-## 🕊️ Serving Those Who Kept the Peace
+## 🕊️ Serving Heroes Who Kept the Peace
 🏥 Previously co-op at [FFE Inc](https://www.ffeinc.us/), designing VA hospital facilities for veterans who served
 for the peace of the United States.
 
